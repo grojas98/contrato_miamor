@@ -6,15 +6,6 @@ Created on Wed Jan 12 19:24:30 2022
 """
 
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-import random
-import pandas as pd
-from itertools import count
-import seaborn as sns
-import time
-import psycopg2 as pg
 from PIL import Image
 
 #%%
