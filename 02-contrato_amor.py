@@ -27,7 +27,7 @@ st.image(image, use_column_width=True)
 st.write("""
 Hola mi amor, llegamos hasta aquí y vamos a seguir sumando momentos bonitos junto al otro,
 quiero decirte que eres una personita muy especial para mi y me encantas muchisimos mundossssssssssss,
-no puedo poner el numero exacto ahora porque va aumentando cada segundo <3.
+no puedo poner el número exacto ahora porque va aumentando cada segundo <3.
 
 Ahora mismo te extraño muchísimo pero sé que te veré más pronto que nunca <3 el sábado en el mágico campo de Parral
 (no puedo poner emojis, aun no se programar tan bien yia)
@@ -99,87 +99,3 @@ if state == 3:
         """)
         
 
-# if comenzar:
-#     st.write("""
-#     1era pregunta....
-
-#     EL **AYER** ESSSS.....
-             
-#     """)
-#     if state == 0:
-#         if decide('HISTORIA','MISTERIO','OBSEQUIO') == 1:
-#             st.write("""
-                     
-#                 hola
-#                      """)
-    
-    # if state == 1:
-    #     st.write("""
-    #     2da pregunta....
-    
-    #     EL **MAÑANA** ESSSS.....
-    #     """)
-        
-    #     decide('MISTERIO','OBSEQUIO','HISTORIA')
-# but = st.empty()
-# but2 = st.empty()
-# but3 = st.empty()
-
-
-# if decide(pa2,pa3,pa) == 1:
-#     st.write("""
-#         EL **MAÑANA** ESSSSS.....
-             
-#     """)
-#     ma = but.button('HISTORIA!')
-#     ma2 = but2.button('MISTERIO!')
-#     ma3 = but3.button('OBSEQUIO!')
-#     if decide(ma,ma3,ma2) == 1:
-#         st.write("""
-#             hola
-                 
-#         """)
-
-
-
-# if state == 0:
-
-#     if pa:
-#         st.write("""
-#             CORRECTOOOOOOOOOOOO MI AMORRRRRRRRR     
-#         """)
-#         st.write("""
-#             2da pregunta......
-                 
-#         """)
-#         state = 1
-#     elif pa2:
-#         st.write("""
-#             ay:( intentalo de nuevo wawi   
-#         """)
-#         state = 0
-#     elif pa3:
-#         st.write("""
-#             ay:( intentalo de nuevo wawi   
-#         """)
-#         state = 0
-
-
-# if state == 1:
-
-
-    
-#     st.write("""
-    
-        
-#         EL **MAÑANA** ESSSS....
-             
-#     """)
-#     ma = st.button('HISTORIA2')
-#     ma2 = st.button('MISTERIO2')
-#     ma3 = st.button('OBSEQUIO2')
-
-# if state == 2:
-#     st.write("""
-#              hola
-#              """)
